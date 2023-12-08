@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://rajivml.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/as-docs/',
@@ -22,7 +22,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rajivml', // Usually your GitHub org/user name.
   projectName: 'as-docs', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "main",
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
